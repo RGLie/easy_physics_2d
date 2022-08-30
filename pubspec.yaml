@@ -3,6 +3,7 @@ description: Easy Physics Engine in Flutter
 version: 0.0.1
 homepage: https://dev.to/rglie
 publisher: j2hyeon02@gmail.com
+repository: https://github.com/RGLie/easy_physics_2d.git
 
 environment:
   sdk: ">=2.17.0-69.2.beta <3.0.0"
